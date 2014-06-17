@@ -13,17 +13,6 @@ What is MARS?
 -----
 MARS is a multi-agent robotic simulation environment for the test of control and decision-making algorithms 
 
-Distribution
------
-The distribution tree contains: 
-
-- README
-- 
-...this file
-
-- src/ 
-- 
-...source files
 
 RUN
 -----
